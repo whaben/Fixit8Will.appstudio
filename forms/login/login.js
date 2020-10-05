@@ -1,7 +1,6 @@
-
+/*
 let accountName = ""
 // correct login is: Smith and pw 123Dogs#  
-
 btnSubmit.onclick=function(){
   accountName = inptAccount.value
   let pass = inptPassword.value
@@ -14,4 +13,5 @@ btnSubmit.onclick=function(){
     inptPassword.value = ""
   }
 }
+*/
 
